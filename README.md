@@ -1,5 +1,5 @@
-<h2 align="center">Hello! my name is Kenneth, I am currently a student at the University of Mindanao taking a bachelors degree in Computer Science and currently a freshman</h2>
-<p align="center"> <img src="![](https://komarev.com/ghpvc/?username=thennek0&color=green)"/> </p>
+<h3 align="center">Hello! my name is Kenneth, I am currently a student at the University of Mindanao taking a bachelors degree in Computer Science and currently a freshman</h3>
+<img src="![](https://komarev.com/ghpvc/?username=thennek0&color=green)" alt="Profile Views" align="center" />
 
 
 
