@@ -15,7 +15,7 @@
 <div align="center">  
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thennek0&layout=compact&langs_count=10&theme=cobalt" />
 
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&layout=compact&langs_count=10&theme=cobalt" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0" />
 </div>
 
 
@@ -26,10 +26,8 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![thennek0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennethbecaro0@gmail.com)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![thennek0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thennek0)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=thennek0&color=green)
 
-![](https://hit.yhype.me/github/profile?user_id=55936363) -->
