@@ -16,7 +16,7 @@
 
 </div>
 <div align="center">  
-  <img width="400" height="100" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&theme=cobalt&layout=compact" />
+  <img width="400" height="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&theme=cobalt&layout=compact" />
 </div>
 
 
