@@ -14,7 +14,7 @@
 <div align="center">  
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thennek0&layout=compact&langs_count=10&theme=cobalt" />
 
-  <img width="400" height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&theme=cobalt&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&theme=cobalt&layout=compact" />
 </div>
 
 
