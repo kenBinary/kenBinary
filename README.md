@@ -1,4 +1,4 @@
-<h1 align="center">Hello! my name is Kenneth, I am currently a student at the University of Mindanao taking a bachelors degree in Computer Science and currently a freshman</h1>
+<h1 align="center">Hello! my name is Kenneth, I am currently a student at the University of Mindanao taking a bachelors degree in Computer Science</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thennek0&color=green" alt="Profile Views" align="center" /> </p>
 
@@ -9,6 +9,7 @@
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25"/>
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  height="25"/>
 </p>
 
 <div align="center">  
