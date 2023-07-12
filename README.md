@@ -13,21 +13,9 @@
 </p>
 
 <div align="center">  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thennek0&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thennek0&layout=compact&theme=cobalt" />
 
 </div>
-<div align="center">  
-  <img width="420"  src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0&theme=cobalt&layout=compact" />
-</div>
-
-
-
-
-
-
-
-
-
 
 <!-- [![thennek0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thennek0)](https://github.com/anuraghazra/github-readme-stats) -->
 
