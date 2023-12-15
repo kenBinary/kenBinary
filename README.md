@@ -32,6 +32,7 @@
 <h3 align="center">Dev Tools</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"  height="25"/>
 </p>
 
 <div align="center">  
