@@ -37,6 +37,7 @@
 
 <h3 align="center">Others</h3>
 <p align="center">
+   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"  height="25"/>
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white"  height="25"/>
 </p>
