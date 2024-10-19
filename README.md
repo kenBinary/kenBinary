@@ -46,5 +46,10 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenBinary&layout=compact&theme=cobalt" />
 </div>
 
+***
 
+<div align="center" style="">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31flmhs2knar6oaxlwn5xi5jqlui&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2e3440&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+   
+</div>
