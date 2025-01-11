@@ -1,9 +1,10 @@
-<h1 align="center">Hello! my name is Kenneth, I am currently a student at the University of Mindanao taking a bachelors degree in Computer Science.</h1>
+<h1 align="center">Hello! I'm Kenneth</h1>
 
 
 
 <h3 align="center">Languages I Use</h3>
 <p align="center">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  height="25"/>
@@ -17,6 +18,7 @@
    
 <h3 align="center">Frameworks and Libraries</h3>
 <p align="center">
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"  height="25"/>
@@ -29,6 +31,7 @@
 
 <h3 align="center">Databases</h3>
 <p align="center">
+   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  height="25"/>
