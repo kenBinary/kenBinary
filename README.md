@@ -49,6 +49,10 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenBinary&layout=compact&theme=cobalt" />
 </div>
 
+<div align="center"> 
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0\&layout=compact&langs_count=10&hide=json" />
+</div>
+
 ***
 
 <div align="center" style="">
