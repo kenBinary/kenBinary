@@ -1,7 +1,4 @@
-![](https://umami-supabase-702164913326.northamerica-northeast2.run.app/p/3Vdqb6jTJ)
 <h1 align="center">Hello! I'm Kenneth</h1>
-
-
 
 <h3 align="center">Languages I Use</h3>
 <p align="center">
