@@ -1,3 +1,4 @@
+<img src="https://umami-supabase-702164913326.northamerica-northeast2.run.app/p/3Vdqb6jTJ"/>
 <h1 align="center">Hello! I'm Kenneth</h1>
 
 
@@ -44,14 +45,6 @@
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
    <img src="https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white"  height="25"/>
 </p>
-
-<div align="center">  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenBinary&layout=compact&theme=cobalt" />
-</div>
-
-<div align="center"> 
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=thennek0\&layout=compact&langs_count=10&hide=json" />
-</div>
 
 ***
 
