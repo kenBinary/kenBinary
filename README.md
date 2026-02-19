@@ -1,4 +1,4 @@
-<img src="https://umami-supabase-702164913326.northamerica-northeast2.run.app/p/3Vdqb6jTJ"/>
+![](https://umami-supabase-702164913326.northamerica-northeast2.run.app/p/3Vdqb6jTJ)
 <h1 align="center">Hello! I'm Kenneth</h1>
 
 
